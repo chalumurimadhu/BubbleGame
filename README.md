@@ -1,4 +1,4 @@
-Create a conda environment and install the required libraries
+Create a conda environment and install the required libraries <br>
 conda create -n od python=3.9
 conda activate od
 pip install opencv-python numpy imutils 
